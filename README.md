@@ -14,3 +14,7 @@ Well I began with this:
 * Data visualization 
 * Applying Machine Learning Algorithm 
 * Make Predictions 
+
+## What I learnt 
+
+Looking at this 
